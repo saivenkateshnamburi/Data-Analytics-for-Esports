@@ -1,1 +1,2 @@
 # Data-Analytics-for-Esports
+As new technologies are introduced, Esports continue to dominate the global online gaming business. They include CS:GO as one example. It was important for me to learn innovative methods and improve analysis on games, thus I opted for this project. The global matches, regions, scores, and Kills and Deaths ratios of players are the primary focus of this project and I've used the algorithms on it to test how well they perform and how the models react when bound to various types of data.
